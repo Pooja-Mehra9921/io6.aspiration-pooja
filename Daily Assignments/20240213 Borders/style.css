@@ -1,0 +1,258 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.parent{
+    background-color: black;
+    height: 440px;
+    width: 434px;
+    display: inline-block;
+}
+
+.child{
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    padding: 0;
+}
+.child1{
+    background-color: red;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+
+}
+
+.child2{
+    background-color: palevioletred;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+
+}
+
+.child3{
+    background-color: red;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+
+}
+
+.child4{
+    background-color: palevioletred;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+
+}
+
+.child5{
+    background-color: red;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+
+}
+
+.child6{
+    background-color: palevioletred;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+
+}
+
+
+.child7{
+    background-color: red;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+
+}
+
+.child8{
+    background-color: palevioletred;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+
+}
+
+.child10{
+    background-color: rgb(140, 140, 231);
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+
+}
+
+.child11{
+    background-color: rgb(140, 140, 231);
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+
+}
+
+.child12{
+    background-color: rgb(140, 140, 231);
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+
+}
+
+.child13{
+    background-color: rgb(140, 140, 231);
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+
+}
+
+.child15{
+    background-color: rgb(140, 140, 231);
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+
+}
+.child16{
+    background-color: rgb(140, 140, 231);
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+
+}
+.child18{
+    background-color: rgb(76, 171, 239);
+    border-radius: 50%;
+    
+
+}
+.child19{
+    background-color: rgb(76, 171, 239);
+    border-radius: 50%;
+}
+
+.child21{
+    background-image: linear-gradient(to right,white, blue);
+    border-radius: 50%;
+}
+
+.child24{
+    background-color: rgb(76, 171, 239);
+    border-radius: 50%;
+}
+.child25{
+    background-color: rgb(20, 177, 70);
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+
+}
+
+
+.child27{
+    background-color: rgb(20, 177, 70);
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+
+}
+
+.child28{
+    background-color: rgb(20, 177, 70);
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+
+}
+
+.child29{
+    background-color: rgb(20, 177, 70);
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+
+}
+
+.child30{
+    background-color: rgb(20, 177, 70);
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+
+}
+
+.child31{
+    background-color: rgb(20, 177, 70);
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+
+}
+
+.child32{
+    background-color: rgb(20, 177, 70);
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+
+}
+
+.child33{
+    background-color: red;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+
+}
+
+.child35{
+    background-color: red;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+
+}
+
+.child36{
+    background-color: palevioletred;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+
+}
+
+.child38{
+    background-color: palevioletred;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+
+}
+
+.child43{
+    background-color: rgb(137, 31, 236);
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+
+}
+.child45{
+    background-color: rgb(137, 31, 236);
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+
+}
+
+.child49{
+    background-color: rgb(76, 171, 239);
+    border-radius: 50%;
+    
+
+}
+
+.child52{
+    background-image: linear-gradient(to bottom,rgb(14, 106, 197), blue);
+    border-radius: 50%;
+}
+
+.child56{
+    background-image: linear-gradient(to bottom,rgb(64, 191, 172), rgb(28, 128, 69));
+    border-radius: 50%;
+}
+
+
+.child62{
+    background-color: rgb(28, 134, 62);
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+
+}
